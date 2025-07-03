@@ -6,15 +6,15 @@
 
 ---
 
+### => About me
 <p>
-  => About me <br/>
-  A passionate Engineer in the making <br/>
+  A passionate Computer Engineer in the making <br/>
   Exploring ML, AI, and software development <br/>
 </p>
 
 ---
 
-### Current Tech Stack
+### => Current Tech Stack
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### => GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xgillus&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br/>
