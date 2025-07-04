@@ -27,12 +27,3 @@
 </p>
 
 ---
-
-### => GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xgillus&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgillus&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
